@@ -1,0 +1,5 @@
+<?php
+$convenorEmail="";
+$convenorPassword= "";
+$convenorSession = "";
+?>
