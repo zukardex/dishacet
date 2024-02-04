@@ -622,6 +622,7 @@ div.details p{
         div.details button{
             
             font-size: 18px;
+            cursor: pointer;
         }
         
         div.details p{
