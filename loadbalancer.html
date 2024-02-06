@@ -11,12 +11,12 @@
     <script>
         // Function to redirect after 5 seconds
         setTimeout(function() {
-            var servers=["https://dishacet.rf.gd/dish", "https://disha2023.rf.gd/"];
+            var servers=["https://dishacet.rf.gd/dish", "https://disha2023.rf.gd/", "https://disha2023.rf.gd/"];
             // Change the URL to redirect to
             function randomNumber(min, max) {
                     return Math.random() * (max - min) + min;
             }
-            let r= randomNumber(1,2);
+            let r= randomNumber(1,3);
                     
                     window.location.href = servers[r];
                 }, 2000); // 5000 milliseconds = 5 seconds
