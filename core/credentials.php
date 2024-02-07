@@ -1,5 +1,0 @@
-<?php
-$convenorEmail="";
-$convenorPassword= "";
-$convenorSession = "";
-?>
