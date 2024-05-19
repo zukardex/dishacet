@@ -5,7 +5,7 @@ Run install.php for database config and installation. <br>
 Add coordinators in $users array in coordinator/credentials.php <br>
 Modify the config.php to set the database credentials <br>
 ## Demo
-https://dishacet.in  
+http://dishacet.in  
 mirror: https://dishacet.rf.gd/ <br>
 [![Watch the video](https://img.youtube.com/vi/hKuKF8m4P5E/0.jpg)](https://youtu.be/hKuKF8m4P5E)
 
