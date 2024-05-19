@@ -1,19 +1,12 @@
-# dishacet
+# DISHA'23 Website
 
 ## Installation Process
-Run install.php for database config and installation.
-#
-Add coordinators in $users array in coordinator/credentials.php
-#
-Modify the config.php to set the database credentials
-
+Run install.php for database config and installation. <br>
+Add coordinators in $users array in coordinator/credentials.php <br>
+Modify the config.php to set the database credentials <br>
 ## Demo
 https://dishacet.in  
-mirror: https://dishacet.rf.gd/
-
-
-## Demo Video
-
+mirror: https://dishacet.rf.gd/ <br>
 [![Watch the video](https://img.youtube.com/vi/hKuKF8m4P5E/0.jpg)](https://youtu.be/hKuKF8m4P5E)
 
 If the embedded video doesn't work, you can also watch it [here](https://youtu.be/hKuKF8m4P5E).
@@ -21,9 +14,9 @@ If the embedded video doesn't work, you can also watch it [here](https://youtu.b
 
 
 ## Team
-Mohammed Suhail K M   https://github.com/zukardex <br>
-Jonahs George https://github.com/Jonahs17 <br>
-Sooryajith R S https://github.com/Sooryajithrs <br>
-Jewel George https://github.com/JwlGorge <br>
-Abhinav Meleth https://github.com/ABHINAVMELETH <br>
-Mufasil T K, Renjith Rajan, Alan Santhosh, Partheev, Sourav
+[Mohammed Suhail K M](https://github.com/zukardex)  
+[Jonahs George](https://github.com/Jonahs17)  
+[Sooryajith R S](https://github.com/Sooryajithrs)  
+[Jewel George](https://github.com/JwlGorge)  
+[Abhinav Meleth](https://github.com/ABHINAVMELETH)  
+Mufasil T K, Renjith Rajan, Alan Santhosh, Partheev, Sourav,...
